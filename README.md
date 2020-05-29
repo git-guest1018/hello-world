@@ -1,5 +1,3 @@
-# hello-world
+This is the hello-world tutorial/lab must be completed for CSC154
 
-## Hello !, this is Sandhya,
-## Student at Waketech Community College
-## creating my first repository
+
